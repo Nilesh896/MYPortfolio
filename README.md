@@ -3,6 +3,9 @@ MY PORTFOLIO
 
 Welcome to my portfolio project! This application is built using React for the frontend, styled with Tailwind CSS, and utilizes JSON Server as a fake REST API for the backend. This project showcases my skills and provides an interactive way to explore my work.
 
+![image alt](https://github.com/Nilesh896/MyPortfolio/blob/b381f4adf280ec04e228e4bc160d07b5984e7678/Screenshot%202024-12-30%20151621.png)
+![image alt](https://github.com/Nilesh896/MyPortfolio/blob/b381f4adf280ec04e228e4bc160d07b5984e7678/Screenshot%202024-12-30%20151650.png)
+
 
 ## Tables of Contents
 
